@@ -31,5 +31,5 @@ Thanks for visiting my profile!
 
 "Every challenge is a disguised opportunity to grow and evolve. Don't limit yourself; exceed your own expectations and see the rewards of your effort reveal themselves in the future."🚀
 
-![Snake animation](https://github.com/BiellSouza2005/BiellSouza2005/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BiellSouza2005/BiellSouza2005/blob/output/github-contribution-grid-snake.svg)
 
