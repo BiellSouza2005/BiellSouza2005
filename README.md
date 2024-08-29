@@ -24,7 +24,7 @@ I am a development enthusiast and eager to grow in the technology field. Whether
 •	Email: gabrielmaestasouza@gmail.com
 
 <div>
-<a href = "mailto:contato@gabrielmaestasouza@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:gmail@gabrielmaestasouza"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-souza-a758782a9" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
