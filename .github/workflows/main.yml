@@ -4,6 +4,10 @@ on:
   schedule: # execute every 1 hours
     - cron: "* */1 * * *"
   workflow_dispatch:
+  
+permissions:
+  contents: write  # Permissão para escrever no repositório
+  pages: write     # Permissão para publicar páginas no GitHub Pages
 
 jobs:
   build:
@@ -14,7 +18,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: BiellSouza2005
+          github_user_name: seu-usuário-aqui
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
