@@ -14,9 +14,13 @@ I am a development enthusiast and eager to grow in the technology field. Whether
 •	🔧 I am constantly learning and improving my skills by doing projects, always eager to take on new challenges.
 
 •	💬 Feel free to reach out if you want to collaborate or just chat about tech!
+
 📈 GitHub Stats
+
 📫 How to reach me:
+
 •	LinkedIn: [Gabriel Souza | LinkedIn](https://www.linkedin.com/in/gabriel-souza-a758782a9/)
+
 •	Email: gabrielmaestasouza@gmail.com
 
 Thanks for visiting my profile! 
