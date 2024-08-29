@@ -31,4 +31,10 @@ Thanks for visiting my profile!
 
 "Every challenge is a disguised opportunity to grow and evolve. Don't limit yourself; exceed your own expectations and see the rewards of your effort reveal themselves in the future."🚀
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiellSouza2005&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BiellSouza2005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
